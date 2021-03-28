@@ -936,6 +936,10 @@ section {
     height: 20px;
   }
 
+  .page-opening {
+    height: 720px;
+  }
+
   .opening-title {
     font-size: 45px;
   }
@@ -960,18 +964,34 @@ section {
   }
 
   .card {
-    width: 340px;
+    width: 300px;
+  }
+
+  .card-box-upper {
+    height: 420px;
   }
 
   .card-title {
-    font-size: 28px;
+    font-size: 26px;
   }
 
   .card-desc {
-    font-size: 12.5px;
+    font-size: 12px;
   }
 
   .page-donation {
     padding-top: 90px;
+  }
+
+  .donation-title {
+    font-size: 26px;
+  }
+
+  .donation-desc {
+    font-size: 12px;
+  }
+
+  .donation-button {
+    padding: 10px 35px;
   }
 }
